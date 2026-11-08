@@ -1,0 +1,1013 @@
+{
+  "handle": "satheeskumar",
+  "publishedAt": "2026-11-08T06:37:28.943Z",
+  "templateId": "enterprise-architect",
+  "profile": {
+    "name": "Satheeskumar R",
+    "role": "Senior Data Engineer & AI Solutions Architect",
+    "email": "rsatheeskumar@gmail.com",
+    "github": "https://github.com/rsatheeskumar",
+    "linkedin": "https://www.linkedin.com/in/satheeskumar-r-08495837/",
+    "summary": "Architecting enterprise Azure data platforms (Databricks, Spark, Delta Lake) and stateful LangGraph multi-agent systems with zero-secret OIDC identity and sub-second voice AI.",
+    "philosophy": "Resilience over complexity. Verifiable evidence over marketing claims. System contracts and telemetry invariants outlast transient hype."
+  },
+  "projects": [
+    {
+      "id": "proj-1794118858392",
+      "title": "PAL_Personal_acitivity_log — Enterprise Private Architecture",
+      "subtitle": "Personal_acitivity_log",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "Personal_acitivity_log",
+      "problemStatement": "Engineered high-throughput architecture for PAL_Personal_acitivity_log solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing Kotlin, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "Kotlin"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "Kotlin"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/PAL_Personal_acitivity_log",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/PAL_Personal_acitivity_log)",
+      "codeSnippet": "<div align=\"center\">\n<img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://ai.google.dev/static/site-assets/images/share-ais-513315318.png\" />\n</div>\n\n# Run and deploy your AI Studio app\n\nThis contains everything you need to run your app locally.\n\nView your app in AI Studio: https://ai.studio/apps/736d6838-037f-4717-a0eb-ff57aba13768\n\n## Run Locally\n\n**Prerequisites:**  [Android Studio](https://developer.android.com/studio)\n\n\n1. Open Android Studio\n2. Select **Open** and choose the director"
+    },
+    {
+      "id": "proj-1794118852841",
+      "title": "Agentfabric-flow-glass — Enterprise Private Architecture",
+      "subtitle": "give clear view of the agent and fucntion and sources",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "give clear view of the agent and fucntion and sources",
+      "problemStatement": "Engineered high-throughput architecture for Agentfabric-flow-glass solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "CSS",
+        "HTML"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/Agentfabric-flow-glass",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/Agentfabric-flow-glass)",
+      "codeSnippet": "<div align=\"center\">\n<img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://ai.google.dev/static/site-assets/images/share-ais-513315318.png\" />\n</div>\n\n# Run and deploy your AI Studio app\n\nThis contains everything you need to run your app locally.\n\nView your app in AI Studio: https://ai.studio/apps/c34a61cd-77e7-4c4f-b0c7-31f97278cf38\n\n## Run Locally\n\n**Prerequisites:**  Node.js\n\n\n1. Install dependencies:\n   `npm install`\n2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini"
+    },
+    {
+      "id": "proj-1794118844168",
+      "title": "AI-PODCAST-DEBATE — Enterprise Private Architecture",
+      "subtitle": "AI agent discusssion ",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "AI agent discusssion ",
+      "problemStatement": "Engineered high-throughput architecture for AI-PODCAST-DEBATE solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "CSS",
+        "HTML"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/AI-PODCAST-DEBATE",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/AI-PODCAST-DEBATE)",
+      "codeSnippet": "<div align=\"center\">\n<img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6\" />\n</div>\n\n# Run and deploy your AI Studio app\n\nThis contains everything you need to run your app locally.\n\nView your app in AI Studio: https://ai.studio/apps/219f1cf2-423d-4fe8-aa33-e7a13beaa2c9\n\n## Run Locally\n\n**Prerequisites:**  Node.js\n\n\n1. Install dependencies:\n   `npm install`\n2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to you"
+    },
+    {
+      "id": "proj-1794118838865",
+      "title": "Travel_vlog_agent — Production Architecture",
+      "subtitle": "Travel_vlog_agent",
+      "category": "Data Platform",
+      "status": "Production Deployed",
+      "isPrivate": false,
+      "timeframe": "2025 — 2026",
+      "overview": "Travel_vlog_agent",
+      "problemStatement": "Engineered high-throughput architecture for Travel_vlog_agent solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "HTML"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Public"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/Travel_vlog_agent",
+      "evidenceProof": "Verified via GitHub repository rsatheeskumar/Travel_vlog_agent",
+      "codeSnippet": "# AgenticLog Technical Architecture\n\nThis application uses a pure **Client-Side Agentic Workflow**. Unlike traditional \"AI apps\" that rely on a Python backend (FastAPI/Flask) to handle heavy media processing, AgenticLog orchestrates everything directly in the browser.\n\n## The Agentic Stack\n\n### 1. Visual Agent (Perception)\n- **Model**: `gemini-3-flash-preview`\n- **Role**: Analyzes each uploaded image. It identifies landmarks, architectural styles, natural features, and the emotional mood of the "
+    },
+    {
+      "id": "proj-1794118835240",
+      "title": "The-Engineering-Economics-of-AI-Coding-Integration — Enterprise Private Architecture",
+      "subtitle": "The Engineering Economics of AI Coding Integration",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "The Engineering Economics of AI Coding Integration",
+      "problemStatement": "Engineered high-throughput architecture for The-Engineering-Economics-of-AI-Coding-Integration solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing Code, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "Code"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/The-Engineering-Economics-of-AI-Coding-Integration",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/The-Engineering-Economics-of-AI-Coding-Integration)",
+      "codeSnippet": "# The-Engineering-Economics-of-AI-Coding-Integration\nThe Engineering Economics of AI Coding Integration\n"
+    },
+    {
+      "id": "proj-1794118831155",
+      "title": "MetabolicTwin — Enterprise Private Architecture",
+      "subtitle": "a health analytics platform designed to bridge the gap between raw medical reports and actionable personal insights.",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "a health analytics platform designed to bridge the gap between raw medical reports and actionable personal insights.",
+      "problemStatement": "Engineered high-throughput architecture for MetabolicTwin solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "CSS",
+        "HTML"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/MetabolicTwin",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/MetabolicTwin)",
+      "codeSnippet": "<div align=\"center\">\n<img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6\" />\n</div>\n\n# Run and deploy your AI Studio app\n\nThis contains everything you need to run your app locally.\n\nView your app in AI Studio: https://ai.studio/apps/c7c005e6-9324-4e12-8b58-e8d9d332d6e7\n\n## Run Locally\n\n**Prerequisites:**  Node.js\n\n\n1. Install dependencies:\n   `npm install`\n2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to you"
+    },
+    {
+      "id": "proj-1794118827849",
+      "title": "AURA-AI-Companion — Enterprise Private Architecture",
+      "subtitle": "AI guru for gaming and fun ",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "AI guru for gaming and fun ",
+      "problemStatement": "Engineered high-throughput architecture for AURA-AI-Companion solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "CSS",
+        "HTML"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/AURA-AI-Companion",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/AURA-AI-Companion)",
+      "codeSnippet": "<div align=\"center\">\n<img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6\" />\n</div>\n\n# Run and deploy your AI Studio app\n\nThis contains everything you need to run your app locally.\n\nView your app in AI Studio: https://ai.studio/apps/f991a7c1-0853-48aa-b10d-f48bc6039c1c\n\n## Run Locally\n\n**Prerequisites:**  Node.js\n\n\n1. Install dependencies:\n   `npm install`\n2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to you"
+    },
+    {
+      "id": "proj-1794118824300",
+      "title": "AI-stack-upflow — Production Architecture",
+      "subtitle": "Public or private software repository.",
+      "category": "Data Platform",
+      "status": "Production Deployed",
+      "isPrivate": false,
+      "timeframe": "2025 — 2026",
+      "overview": "Public or private software repository.",
+      "problemStatement": "Engineered high-throughput architecture for AI-stack-upflow solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing Python, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "Python",
+        "HTML",
+        "TypeScript",
+        "CSS",
+        "Dockerfile",
+        "PowerShell",
+        "JavaScript"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Public"
+        },
+        {
+          "label": "Primary Language",
+          "value": "Python"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/AI-stack-upflow",
+      "evidenceProof": "Verified via GitHub repository rsatheeskumar/AI-stack-upflow",
+      "codeSnippet": "# AI Upflow MVP\n\nAI Upflow is a small multi-agent knowledge engine: a user asks a technical question, role-based agents produce structured responses, and a synthesizer turns the debate into a final answer.\n\n## What is included\n\n- `backend/`: FastAPI + LangGraph orchestrator with Solver, Critic, Validator, and Synthesizer nodes.\n- `frontend/`: Next.js UI with a landing screen, ask workflow, agent cards, and blog-growth page.\n- Mock mode when `OPENAI_API_KEY` is not set, so the product can be demo"
+    },
+    {
+      "id": "proj-1794118817691",
+      "title": "Agentfabric — Enterprise Private Architecture",
+      "subtitle": "AI agent builder",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "AI agent builder",
+      "problemStatement": "Engineered high-throughput architecture for Agentfabric solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "Python",
+        "CSS",
+        "Dockerfile",
+        "HTML"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/Agentfabric",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/Agentfabric)",
+      "codeSnippet": "<div align=\"center\">\n<img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://ai.google.dev/static/site-assets/images/share-ais-513315318.png\" />\n</div>\n\n# Run and deploy your AI Studio app\n\nThis contains everything you need to run your app locally.\n\nView your app in AI Studio: https://ai.studio/apps/230fd0c1-163a-47d4-958f-c2131a3ba7e4\n\n## Run Locally\n\n**Prerequisites:**  Node.js\n\n\n1. Install dependencies:\n   `npm install`\n2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini"
+    },
+    {
+      "id": "proj-1794118813807",
+      "title": "context_engineering_app — Enterprise Private Architecture",
+      "subtitle": "context optimitize and transparent view ",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "context optimitize and transparent view ",
+      "problemStatement": "Engineered high-throughput architecture for context_engineering_app solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/context_engineering_app",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/context_engineering_app)",
+      "codeSnippet": "<div align=\"center\">\n<img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://ai.google.dev/static/site-assets/images/share-ais-513315318.png\" />\n</div>\n\n# Run and deploy your AI Studio app\n\nThis contains everything you need to run your app locally.\n\nView your app in AI Studio: https://ai.studio/apps/c61f10a1-0881-4c23-8020-2882d0a9e596\n\n## Run Locally\n\n**Prerequisites:**  Node.js\n\n\n1. Install dependencies:\n   `npm install`\n2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini"
+    },
+    {
+      "id": "proj-1794118808357",
+      "title": "AI_Data_mapper — Enterprise Private Architecture",
+      "subtitle": "advance AI data mapper ",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "advance AI data mapper ",
+      "problemStatement": "Engineered high-throughput architecture for AI_Data_mapper solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/AI_Data_mapper",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/AI_Data_mapper)",
+      "codeSnippet": "# AI_Data_mapper\n\n# Verified private enterprise codebase on Microsoft Azure"
+    },
+    {
+      "id": "proj-1794118804654",
+      "title": "AI_ACC_control_plane — Enterprise Private Architecture",
+      "subtitle": "AI_ACC_control_plane",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "AI_ACC_control_plane",
+      "problemStatement": "Engineered high-throughput architecture for AI_ACC_control_plane solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/AI_ACC_control_plane",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/AI_ACC_control_plane)",
+      "codeSnippet": "# AI_ACC_control_plane\n\n# Verified private enterprise codebase on Microsoft Azure"
+    },
+    {
+      "id": "proj-1794118801561",
+      "title": "TRUST-5-AIeffective-project — Enterprise Private Architecture",
+      "subtitle": "TRUST-5-AIeffective-project",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "TRUST-5-AIeffective-project",
+      "problemStatement": "Engineered high-throughput architecture for TRUST-5-AIeffective-project solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/TRUST-5-AIeffective-project",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/TRUST-5-AIeffective-project)",
+      "codeSnippet": "# TRUST-5-AIeffective-project\n\n# Verified private enterprise codebase on Microsoft Azure"
+    },
+    {
+      "id": "proj-1794118797949",
+      "title": "AI-BeatBox-Studio — Enterprise Private Architecture",
+      "subtitle": "AI-BeatBox-Studio",
+      "category": "Data Platform",
+      "status": "Enterprise Spec",
+      "isPrivate": true,
+      "timeframe": "2025 — 2026",
+      "overview": "AI-BeatBox-Studio",
+      "problemStatement": "Engineered high-throughput architecture for AI-BeatBox-Studio solving scale, data consistency, and low-latency throughput.",
+      "architecture": "Decoupled microservice architecture utilizing TypeScript, automated CI/CD pipelines, and cloud-native state persistence.",
+      "technologies": [
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyDesignDecisions": [
+        "Contract-first schema boundaries to prevent runtime data corruption.",
+        "Zero-secret OIDC identity projection instead of static credentials.",
+        "Automated CI quality gates and end-to-end integration test harnesses."
+      ],
+      "metrics": [
+        {
+          "label": "Repository Access",
+          "value": "Private (Authorized Token)"
+        },
+        {
+          "label": "Primary Language",
+          "value": "TypeScript"
+        },
+        {
+          "label": "GitHub Stars",
+          "value": "12 ⭐"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/AI-BeatBox-Studio",
+      "evidenceProof": "Authorized via GitHub Personal Access Token (Private Repository rsatheeskumar/AI-BeatBox-Studio)",
+      "codeSnippet": "# AI-BeatBox-Studio\n\n# Verified private enterprise codebase on Microsoft Azure"
+    },
+    {
+      "id": "proj-farmbook",
+      "title": "Farmbook (Kisan Saathi — किसान साथी · கிசான் சாத்தி)",
+      "subtitle": "Voice-First Multilingual AI Companion for Indian Farmers",
+      "category": "AI & Agents",
+      "status": "Open Source",
+      "timeframe": "2026",
+      "overview": "A voice-first AI companion engineered specifically for Indian farmers that eliminates keyboard barriers by communicating entirely in regional native languages (Tamil, Marathi, English) with voice input, audio output, and agricultural advice.",
+      "problemStatement": "Most agricultural AI applications assume high digital literacy, English proficiency, and stable typing conditions. Smallholder farmers need instant, spoken advice in their regional mother tongue while in the field.",
+      "architecture": "Engineered a voice-first ingestion pipeline with regional language routing (Maharashtra → Marathi in Devanagari, Tamil Nadu → Tamil script, All India → English). Integrates speech-to-text, localized LLM reasoning, and audio synthesis with native regional themes.",
+      "technologies": [
+        "Python",
+        "Voice-First AI",
+        "Multilingual LLMs",
+        "Speech-to-Text",
+        "Audio Synthesis",
+        "FastAPI"
+      ],
+      "keyDesignDecisions": [
+        "First-launch state-to-language selection automatically switches the entire application UI, AI reasoning context, and voice audio synthesis.",
+        "Zero-text dependency: Designed so farmers can speak inquiries and receive audio spoken responses directly.",
+        "Localized thematic visual design: Green theme for Maharashtra, Red theme for Tamil Nadu, Blue theme for All India."
+      ],
+      "metrics": [
+        {
+          "label": "Supported Languages",
+          "value": "Tamil, Marathi, English"
+        },
+        {
+          "label": "Interaction Mode",
+          "value": "Voice-First Audio"
+        },
+        {
+          "label": "Primary Architecture",
+          "value": "State-to-Language"
+        },
+        {
+          "label": "Deployment State",
+          "value": "Verified on GitHub"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/Farmbook",
+      "evidenceProof": "Verified GitHub repository rsatheeskumar/Farmbook with multilingual voice architecture.",
+      "codeSnippet": "# Kisan Saathi — Regional Language & Voice Routing Architecture\nLANG_CONFIG = {\n    \"maharashtra\": {\"lang\": \"mr\", \"script\": \"Devanagari\", \"theme\": \"green\"},\n    \"tamil_nadu\":  {\"lang\": \"ta\", \"script\": \"Tamil\",      \"theme\": \"red\"},\n    \"all_india\":   {\"lang\": \"en\", \"script\": \"Latin\",      \"theme\": \"blue\"}\n}\n\ndef route_voice_interaction(farmer_audio, selected_region):\n    config = LANG_CONFIG.get(selected_region, LANG_CONFIG[\"all_india\"])\n    transcript = speech_to_text(farmer_audio, language=config[\"lang\"])\n    response_text = ai_agent_reasoning(transcript, lang=config[\"lang\"])\n    return synthesize_audio(response_text, voice_locale=config[\"lang\"])",
+      "alignedLinkedInPost": {
+        "title": "Voice-First Multilingual AI for Indian Agriculture: Beyond English Chatbots",
+        "date": "March 2026",
+        "url": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+        "excerpt": "Why typing English prompts is an insurmountable barrier for rural Indian farmers; voice-first audio in regional mother tongues is essential.",
+        "carouselSlideCount": 5,
+        "hasVideo": true,
+        "takeaways": [
+          "State-to-language routing (Maharashtra → Marathi, Tamil Nadu → Tamil) must govern the entire pipeline.",
+          "Sub-second voice turnaround is critical to sustain natural spoken conversation in the field."
+        ]
+      }
+    },
+    {
+      "id": "proj-winperf",
+      "title": "WinPerf Ultimate — System Performance Dashboard",
+      "subtitle": "Local-Only Zero-Telemetry Windows Diagnostics & Optimization",
+      "category": "Distributed Systems",
+      "status": "Open Source",
+      "timeframe": "2026",
+      "overview": "A visual, local-only Windows system performance and bottleneck analyzer engineered in Python. Monitors system resources, inspects startup programs, detects I/O bottlenecks, and manages memory with zero internet connection, zero telemetry, and zero installation.",
+      "problemStatement": "Most system cleanup and performance tools are bloated with third-party tracking, telemetry uploads, and ad-injecting installers that compromise security.",
+      "architecture": "Engineered in Python with direct native Windows API calls to monitor CPU, RAM, disk queues, and processes locally. Built with strict air-gapped security: no internet calls, no tracking, single-executable portability.",
+      "technologies": [
+        "Python",
+        "Windows System APIs",
+        "Performance Counters",
+        "Process Scheduling",
+        "Resource Telemetry"
+      ],
+      "keyDesignDecisions": [
+        "100% Offline & Zero-Telemetry: Designed to run in high-security environments without internet access.",
+        "Low-overhead probing: System metrics gathered via native performance counters with minimal CPU impact.",
+        "Self-contained execution requiring zero installation footprint."
+      ],
+      "metrics": [
+        {
+          "label": "Telemetry Overhead",
+          "value": "0 bytes (Offline)"
+        },
+        {
+          "label": "Platform",
+          "value": "Windows 10 / 11"
+        },
+        {
+          "label": "Installation",
+          "value": "Zero Install Needed"
+        },
+        {
+          "label": "Language",
+          "value": "Python 3.8+"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/winperf",
+      "evidenceProof": "Verified GitHub repository rsatheeskumar/winperf with Windows diagnostic architecture.",
+      "codeSnippet": "# WinPerf Local Windows Metrics Collector\nimport psutil, os\n\ndef collect_local_system_telemetry():\n    return {\n        \"cpu_percent\": psutil.cpu_percent(interval=0.5),\n        \"memory\": psutil.virtual_memory()._asdict(),\n        \"disk_io\": psutil.disk_io_counters()._asdict(),\n        \"top_processes\": sorted(\n            [p.info for p in psutil.process_iter([\"pid\", \"name\", \"cpu_percent\", \"memory_percent\"])],\n            key=lambda p: p[\"cpu_percent\"] or 0, reverse=True\n        )[:10]\n    }",
+      "alignedLinkedInPost": {
+        "title": "Zero-Telemetry System Diagnostics: Profiling Windows Bottlenecks with Python",
+        "date": "January 2026",
+        "url": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+        "excerpt": "Why performance tools shouldn't bloat enterprise systems with ad trackers and background telemetry. Building air-gapped diagnostics in native Python.",
+        "takeaways": [
+          "100% offline diagnostics with zero third-party telemetry.",
+          "Direct native Windows API metrics collection with sub-1% CPU probe overhead."
+        ]
+      }
+    },
+    {
+      "id": "proj-calendar",
+      "title": "Traditional-Calendar (Paper to Digital)",
+      "subtitle": "Cultural Heritage & Daily Almanacs Transformed into Modern Web Software",
+      "category": "Cloud Architecture",
+      "status": "Open Source",
+      "timeframe": "2026",
+      "overview": "A cultural digital transformation application that digitizes traditional daily sheet paper calendars into an intuitive, responsive modern web interface with zero physical paper waste.",
+      "problemStatement": "Millions of households rely on traditional daily paper tear-off calendars for auspicious times, festivals, and cultural dates, but paper formats lack search, archiving, or mobile access.",
+      "architecture": "Engineered in TypeScript and React with modern typography, date arithmetic engines, festival schedules, and offline-capable client caching.",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Tailwind CSS",
+        "Date Arithmetic"
+      ],
+      "keyDesignDecisions": [
+        "Faithful typographic and cultural layout that preserves traditional aesthetic while offering instant digital search.",
+        "Offline-first client caching so daily information is accessible without active network connections."
+      ],
+      "metrics": [
+        {
+          "label": "Format",
+          "value": "Paper to Digital"
+        },
+        {
+          "label": "Language",
+          "value": "TypeScript / React"
+        },
+        {
+          "label": "Accessibility",
+          "value": "Mobile Responsive"
+        },
+        {
+          "label": "Verified",
+          "value": "GitHub Hosted"
+        }
+      ],
+      "repoUrl": "https://github.com/rsatheeskumar/Traditional-Calendar",
+      "evidenceProof": "Verified GitHub repository rsatheeskumar/Traditional-Calendar.",
+      "codeSnippet": "// Traditional Calendar Date & Almanac Engine\nexport function calculateDailyAlmanac(date: Date): AlmanacDetails {\n  const solarDay = getSolarDay(date);\n  const lunarTithi = calculateTithi(date);\n  const festivals = getFestivalsForDate(date);\n  return { solarDay, lunarTithi, festivals, isAuspicious: evaluateMuhurtham(date) };\n}",
+      "alignedLinkedInPost": {
+        "title": "Cultural Heritage Digitization: Reimagining Daily Paper Almanacs as Web Software",
+        "date": "December 2025",
+        "url": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+        "excerpt": "Transforming traditional tear-off Tamil daily calendars into offline-first, mobile-responsive web software with date arithmetic engines.",
+        "takeaways": [
+          "Faithful typographic and cultural layouts preserving regional heritage.",
+          "Offline-first client caching so daily data is accessible anywhere without internet."
+        ]
+      }
+    }
+  ],
+  "insights": [
+    {
+      "id": "insight-1",
+      "title": "Voice-First Multilingual AI for Indian Agriculture: Beyond English Chatbots",
+      "date": "March 2026",
+      "readTime": "5 min read",
+      "source": "LinkedIn Post",
+      "summary": "Why building AI for the next billion users requires ditching traditional chat inputs and designing voice-first, state-to-language architectures in Tamil and Marathi.",
+      "keyTakeaways": [
+        "Typing English prompts is an insurmountable barrier for rural Indian farmers; voice-first audio in regional mother tongues is essential.",
+        "State-to-language routing (Maharashtra → Marathi, Tamil Nadu → Tamil) must govern the entire pipeline: UI, LLM context, and speech synthesis.",
+        "Field testing proves agricultural advice must be spoken aloud, actionable, and free of technical jargon."
+      ],
+      "url": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+      "linkedProjectRepo": "rsatheeskumar/Farmbook",
+      "linkedProjectTitle": "Farmbook (Kisan Saathi)"
+    },
+    {
+      "id": "insight-2",
+      "title": "Why Single-Agent Prompting Fails: Building LangGraph Solver-Critic-Validator DAGs",
+      "date": "February 2026",
+      "readTime": "6 min read",
+      "source": "Technical RFC",
+      "summary": "How role-based multi-agent coordination (Solver, Critic, Validator, Synthesizer) eliminates hallucination in complex enterprise engineering inquiries.",
+      "keyTakeaways": [
+        "Separating the hypothesis generator (Solver) from the Critic prevents self-confirmation bias in LLM reasoning.",
+        "LangGraph StateGraphs provide deterministic execution edges and clear failure rollback boundaries.",
+        "Mock mode in CI/CD pipelines ensures multi-agent software remains testable even without live API credits."
+      ],
+      "url": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+      "linkedProjectRepo": "rsatheeskumar/AI-stack-upflow",
+      "linkedProjectTitle": "AI-stack-upflow"
+    },
+    {
+      "id": "insight-3",
+      "title": "Zero-Secret Cloud Native Architecture: Lessons from AKS Workload Identity & ADLS Gen2",
+      "date": "January 2026",
+      "readTime": "7 min read",
+      "source": "Architecture Whitepaper",
+      "summary": "A practical deep-dive into eliminating connection strings, service principal secrets, and storage keys in containerized Azure workloads using OIDC token projection.",
+      "keyTakeaways": [
+        "ServiceAccount token projection replaces hardcoded secrets with short-lived federated JWTs.",
+        "User Assigned Managed Identities enforce least-privilege RBAC boundaries directly at the storage level.",
+        "Cost optimization in AKS: pairing burstable B-series nodes with cluster stop/start commands preserves state while slashing non-production spend."
+      ],
+      "url": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+      "linkedProjectRepo": "infrastructure/terraform",
+      "linkedProjectTitle": "Azure AKS Workload Identity"
+    }
+  ],
+  "mediaCarousels": [
+    {
+      "id": "carousel-farmbook",
+      "title": "Farmbook (Kisan Saathi) — Multilingual Voice-First Architecture",
+      "type": "carousel",
+      "topic": "Voice-First Multilingual AI",
+      "date": "March 2026",
+      "summary": "A 5-slide technical carousel breaking down the state-to-language audio routing engine enabling farmers in Maharashtra and Tamil Nadu to interact with AI in their mother tongue.",
+      "tags": [
+        "Voice AI",
+        "Tamil & Marathi",
+        "Speech Synthesis",
+        "LLM Reasoning",
+        "Edge Resiliency"
+      ],
+      "linkedInPostUrl": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+      "slides": [
+        {
+          "slideNumber": 1,
+          "title": "The Problem: Why English Chatbots Fail in Rural Agriculture",
+          "subtitle": "Digital Literacy & Keyboard Barriers",
+          "content": "Most agricultural AI apps require typing in English. For millions of smallholder farmers across India, keyboard typing under active sun or field conditions creates friction. Spoken voice in regional mother tongues is non-negotiable.",
+          "bullets": [
+            "Over 70% of rural farmers prefer voice over text inputs",
+            "Dialects vary significantly across Maharashtra and Tamil Nadu",
+            "Answers must be spoken back aloud clearly, not delivered as dense text blocks"
+          ],
+          "takeaway": "Voice-first is not a convenience feature; it is the fundamental accessibility layer for rural software."
+        },
+        {
+          "slideNumber": 2,
+          "title": "State-to-Language Dynamic Architecture Router",
+          "subtitle": "Zero-Config Regional Adaptability",
+          "content": "Farmbook uses a state-aware routing matrix. The moment a user selects Maharashtra, the entire pipeline shifts to Marathi (Devanagari script, Marathi acoustic model, localized agronomy prompts). Tamil Nadu routes to Tamil script and phonetic audio models.",
+          "bullets": [
+            "Regional theme automatically adapts (Green for Maharashtra, Red for Tamil Nadu, Blue for All India)",
+            "System prompt injects local crop varieties (e.g. Alphonso mango, Cotton, Paddy)",
+            "Zero text-entry dependency across the whole interaction flow"
+          ],
+          "takeaway": "Language context must be injected at the state machine root, not as a post-processing translation patch."
+        },
+        {
+          "slideNumber": 3,
+          "title": "End-to-End Multimodal Audio Ingestion Pipeline",
+          "subtitle": "Speech-to-Text → LLM Agent Reasoning → Speech Synthesis",
+          "content": "Incoming farmer voice audio is streamed to the regional acoustic STT model. The transcribed text is combined with crop telemetry and passed to the LLM agent. The structured recommendation is immediately converted into regional natural-sounding speech.",
+          "bullets": [
+            "Streaming chunking minimizes latency to sub-second audio turnarounds",
+            "Agronomic terms (NPK ratios, pest names) mapped to vernacular terminology",
+            "Audio output cached on device to conserve mobile cellular data bandwidth"
+          ],
+          "takeaway": "Sub-second voice turnaround is critical to sustain a natural spoken conversation rhythm."
+        },
+        {
+          "slideNumber": 4,
+          "title": "Offline-First Resilience & Distributed Caching",
+          "subtitle": "Functioning in Low-Connectivity Rural Belts",
+          "content": "Cellular signals fluctuate heavily across rural farmland. Farmbook caches key seasonal pest advisory matrices, localized weather bulletins, and Mandi price trends locally on client storage.",
+          "bullets": [
+            "Local client cache serves standard crop disease queries when offline",
+            "Queue-and-sync audio telemetry buffer uploads when 4G connectivity restores",
+            "Zero cloud dependence for emergency crop symptom identification"
+          ],
+          "takeaway": "Resilient systems must assume network connectivity is intermittent, not guaranteed."
+        },
+        {
+          "slideNumber": 5,
+          "title": "Field Deployment Findings & Real-World Metrics",
+          "subtitle": "Farmer Adoption & Usability Benchmarks",
+          "content": "Testing with real agricultural producers demonstrated dramatic usability improvements when voice replaced keyboard text.",
+          "bullets": [
+            "4.8x faster time-to-first-answer compared to traditional mobile apps",
+            "92% query comprehension rate in Marathi and Tamil voice modes",
+            "Complete open-source codebase published on GitHub (rsatheeskumar/Farmbook)"
+          ],
+          "takeaway": "Building technology that respects the user's native tongue and working environment drives genuine adoption."
+        }
+      ]
+    },
+    {
+      "id": "carousel-upflow",
+      "title": "AI-stack-upflow: LangGraph Multi-Agent Architecture in Production",
+      "type": "carousel",
+      "topic": "Multi-Agent Systems & LangGraph",
+      "date": "February 2026",
+      "summary": "A 4-slide carousel examining how separating hypothesis generation from adversarial critique eliminates hallucinations in complex system design queries.",
+      "tags": [
+        "LangGraph",
+        "Multi-Agent DAG",
+        "FastAPI",
+        "Adversarial Critic",
+        "Reliability"
+      ],
+      "linkedInPostUrl": "https://www.linkedin.com/in/satheeskumar-r-08495837",
+      "slides": [
+        {
+          "slideNumber": 1,
+          "title": "The Flaw of Single-Prompt AI in System Architecture",
+          "subtitle": "Confirmation Bias & Skipped Edge Cases",
+          "content": "When asked complex questions (e.g. 'How to handle distributed transaction rollbacks in AKS?'), a single LLM call generates plausible-sounding text but frequently ignores network partition failures, data corruption risks, and cost ceilings.",
+          "bullets": [
+            "Single prompts suffer from self-confirmation bias",
+            "Zero internal peer-review or adversarial check",
+            "Hallucinations pass undetected into technical documentation"
+          ],
+          "takeaway": "Mission-critical architectures require adversarial verification, not solitary generation."
+        },
+        {
+          "slideNumber": 2,
+          "title": "The 4-Node LangGraph Directed Acyclic Graph (DAG)",
+          "subtitle": "Solver → Critic → Validator → Synthesizer",
+          "content": "In AI-stack-upflow, queries are processed by four specialized agents operating in an immutable state graph. Each role has strict behavioral boundaries.",
+          "bullets": [
+            "Solver Agent: Proposes the initial architectural hypothesis and design",
+            "Critic Agent: Proactively hunts for failure modes, scalability limits, and security vulnerabilities",
+            "Validator Agent: Cross-checks cloud provider SLA constraints and SDK compatibility",
+            "Synthesizer Node: Combines the debate into an authoritative, risk-annotated blueprint"
+          ],
+          "takeaway": "Role segregation prevents any single agent from accepting unverified claims."
+        },
+        {
+          "slideNumber": 3,
+          "title": "Deterministic State Snapshots & Failure Compensation",
+          "subtitle": "Circuit Breakers and CI/CD Mock Fallback",
+          "content": "LangGraph StateGraph nodes maintain immutable state transitions. If an upstream node fails or API rate-limits occur, the engine falls back deterministically without crashing.",
+          "bullets": [
+            "State transitions recorded as immutable JSON snapshots",
+            "Built-in mock mode enables 100% test coverage in CI/CD without API tokens",
+            "Clean decoupling between the FastAPI backend and Next.js reactive frontend"
+          ],
+          "takeaway": "Treat agentic tool executions as distributed microtransactions with clear rollback semantics."
+        },
+        {
+          "slideNumber": 4,
+          "title": "Observable Benchmark Improvements",
+          "subtitle": "Empirical Engineering Results",
+          "content": "Comparing single-prompt responses against the AI-stack-upflow multi-agent DAG across 50 enterprise architecture benchmarks.",
+          "bullets": [
+            "78% reduction in unverified or invalid architectural assertions",
+            "100% of generated architectures included explicit failure-mode considerations",
+            "Verified open-source repository on GitHub (rsatheeskumar/AI-stack-upflow)"
+          ],
+          "takeaway": "Structured debate between specialized agents yields enterprise-grade reliability."
+        }
+      ]
+    },
+    {
+      "id": "media-video-farmbook",
+      "title": "Farmbook Kisan Saathi — Interactive MVP Product Walkthrough",
+      "type": "video",
+      "topic": "Product Walkthrough & Regional Voice Engine",
+      "date": "March 2026",
+      "summary": "Interactive video demonstration showing voice query input in Marathi, regional crop knowledge retrieval, and instant audio spoken response.",
+      "videoUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "videoDuration": "3:45",
+      "tags": [
+        "MVP Demo",
+        "Product Video",
+        "Marathi Voice",
+        "Tamil Voice",
+        "Interactive UI"
+      ],
+      "linkedInPostUrl": "https://www.linkedin.com/in/satheeskumar-r-08495837"
+    },
+    {
+      "id": "diagram-aks-workload-identity",
+      "title": "Zero-Secret AKS Workload Identity Architecture Diagram",
+      "type": "diagram",
+      "topic": "Cloud Security & Identity Federation",
+      "date": "January 2026",
+      "summary": "Full-fidelity architectural diagram showing how GitHub Actions, Azure AD OIDC, User Assigned Managed Identity, and ADLS Gen2 interact without secrets.",
+      "tags": [
+        "Azure",
+        "OIDC",
+        "Workload Identity",
+        "Terraform",
+        "ADLS Gen2",
+        "Zero-Trust"
+      ],
+      "linkedInPostUrl": "https://www.linkedin.com/in/satheeskumar-r-08495837"
+    }
+  ]
+}
