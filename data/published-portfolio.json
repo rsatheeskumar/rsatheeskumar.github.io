@@ -1,6 +1,6 @@
 {
   "handle": "satheeskumar",
-  "publishedAt": "2026-11-08T06:37:28.943Z",
+  "publishedAt": "2026-11-08T07:53:02.278Z",
   "templateId": "enterprise-architect",
   "profile": {
     "name": "Satheeskumar R",
@@ -9,6 +9,35 @@
     "github": "https://github.com/rsatheeskumar",
     "linkedin": "https://www.linkedin.com/in/satheeskumar-r-08495837/",
     "summary": "Architecting enterprise Azure data platforms (Databricks, Spark, Delta Lake) and stateful LangGraph multi-agent systems with zero-secret OIDC identity and sub-second voice AI.",
+    "overview": {
+      "descriptor": "AI Product Telemetry | Developer Intelligence | Data Engineering | Human-in-the-Loop Analytics",
+      "paragraphs": [
+        "20+ years in Data Architecture, Data Engineering, Analytics and Solution Design, now focused on the emerging space of AI-augmented engineering and AI product telemetry.",
+        "I work across the technical lifecycle of AI-assisted development — from product telemetry schemas and event models to ingestion pipelines, data transformation, analytical models and developer/product intelligence."
+      ],
+      "workflow": "AI Product → Telemetry → Data Schema → Data Pipeline → Analytics → Human Behaviour → Engineering Intelligence",
+      "currentWork": "My current work includes analysing AI coding-assistant and developer telemetry, with hands-on understanding of GitHub Copilot, GitLab Duo and open-source AI development tools/harnesses — looking beyond usage metrics to understand developer interaction, AI adoption, workflow behaviour, productivity signals and human-in-the-loop outcomes.",
+      "focusAreas": [
+        {
+          "title": "AI Telemetry & Developer Intelligence",
+          "items": ["AI-assisted development", "Product telemetry", "Event schemas", "Developer analytics", "AI adoption", "Human-in-the-loop analysis", "Behavioural analytics", "Engineering productivity"]
+        },
+        {
+          "title": "Data & AI Engineering",
+          "items": ["Data architecture", "Data modelling", "Schema design", "ETL/ELT", "Telemetry pipelines", "Databricks", "Azure Data Lake", "BigQuery", "Python", "SQL", "Cloud data platforms"]
+        },
+        {
+          "title": "Analytics & Visualisation",
+          "items": ["Power BI", "Analytical models", "KPI frameworks", "Product analytics", "Engineering analytics", "Data storytelling"]
+        },
+        {
+          "title": "AI Development Ecosystem",
+          "items": ["GitHub Copilot", "GitLab Duo", "Open-source AI tooling", "AI coding agents", "Developer workflows", "Telemetry & observability"]
+        }
+      ],
+      "domainExperience": "20+ years of domain experience across Financial Services, P&L/Ledger, Product Control, Regulatory Reporting, Credit & Risk, MIS, Equities, Core Banking and Enterprise Data Platforms.",
+      "closing": "Building the data layer behind AI products — and understanding the human behaviour behind the data."
+    },
     "philosophy": "Resilience over complexity. Verifiable evidence over marketing claims. System contracts and telemetry invariants outlast transient hype."
   },
   "projects": [
