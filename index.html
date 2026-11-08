@@ -3,16 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Satheeskumar R — Senior Azure Data & AI Architecture Portfolio</title>
-    <meta name="description" content="Architecting enterprise Azure data platforms (Databricks, Spark, Delta Lake) and stateful LangGraph multi-agent systems with zero-secret OIDC identity and sub-second voice AI." />
-    <meta property="og:title" content="Satheeskumar R — Senior Azure Data & AI Architecture Portfolio" />
-    <meta property="og:description" content="Architecting enterprise Azure data platforms (Databricks, Spark, Delta Lake) and stateful LangGraph multi-agent systems with zero-secret OIDC identity and sub-second voice AI." />
+    <title>Satheeskumar Rajasekaran — Senior Data Engineer & AI Solutions Architect</title>
+    <meta name="description" content="Data and AI architect with 20+ years of experience across financial services, data engineering, analytics, and enterprise platforms." />
+    <meta property="og:title" content="Satheeskumar Rajasekaran — Senior Data Engineer & AI Solutions Architect" />
+    <meta property="og:description" content="Data and AI architect with 20+ years of experience across financial services, data engineering, analytics, and enterprise platforms." />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="/assets/index-B2wKVF6C.css" />
+    <link rel="stylesheet" href="/assets/index-DXhhsPtk.css" />
     <script type="module">
       try {
         const handle = 'satheeskumar';
@@ -42,25 +42,38 @@
           const projectsKey = `${prefix}projects_${handle}`;
           const insightsKey = `${prefix}insights`;
           const carouselsKey = `${prefix}carousels`;
+          let savedProfile = {};
+          try {
+            savedProfile = JSON.parse(localStorage.getItem(profileKey) || '{}');
+          } catch (error) {
+            console.warn('Ignoring malformed locally saved profile data.', error);
+          }
+          const profile = {
+            ...snapshot.profile,
+            ...savedProfile,
+            name: snapshot.profile.name,
+            role: snapshot.profile.role,
+            summary: snapshot.profile.summary,
+            overview: snapshot.profile.overview,
+          };
+          if (!profile.avatarUrl) {
+            profile.avatarUrl = '/src/assets/images/satheeskumar_profile.jpg';
+          }
+          localStorage.setItem(profileKey, JSON.stringify(profile));
+
           if (
             localStorage.getItem(versionKey) !== snapshot.publishedAt ||
-            !localStorage.getItem(profileKey) ||
             !localStorage.getItem(projectsKey) ||
             !localStorage.getItem(insightsKey) ||
             !localStorage.getItem(carouselsKey)
           ) {
-            const profile = { ...snapshot.profile };
-            if (!profile.avatarUrl) {
-              profile.avatarUrl = '/src/assets/images/satheeskumar_profile.jpg';
-            }
-            localStorage.setItem(profileKey, JSON.stringify(profile));
             localStorage.setItem(projectsKey, JSON.stringify(snapshot.projects));
             localStorage.setItem(insightsKey, JSON.stringify(snapshot.insights));
             localStorage.setItem(carouselsKey, JSON.stringify(snapshot.mediaCarousels));
             localStorage.setItem(versionKey, snapshot.publishedAt);
           }
         }
-        await import('/assets/index-CdpPYkL8.js');
+        await import('/assets/index-DV7oBoIV.js');
       } catch (error) {
         console.error('Unable to load the published portfolio data.', error);
         const root = document.getElementById('root');
